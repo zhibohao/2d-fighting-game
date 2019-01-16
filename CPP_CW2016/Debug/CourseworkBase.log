@@ -1,0 +1,46 @@
+﻿Build started 2018/4/26 17:42:46.
+     1>Project "F:\CPP\CPP_CW2016_fight\CPP_CW2016\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\\" /Fd"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\vc120.pdb" /FR"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\\" /Gd /TP /analyze- /errorReport:prompt BackgroundControl.cpp
+         BackgroundControl.cpp
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BackgroundControl.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BirdObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CharacterObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FightEngine.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FightTileManager.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\HealthBarObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\KakashiObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\mainfunction.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BaseEngine.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\DisplayableObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FontManager.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\JPGImage.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\NameBarObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\NarutoObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\PlayerState.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SasukeAI.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SasukeObject.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SimpleDemo.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\TileManager.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BouncingBall.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BouncingBallMain.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo1Main.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2Main.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2Object.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2TileManager.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3Main.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3Object.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3ObjectFinished.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3TileManager.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4Main.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4Object.obj
+         F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4TileManager.obj
+         CourseworkBase.vcxproj -> F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CourseworkBase.exe
+       BscMake:
+         E:\Visual Studio\VC\bin\bscmake.exe /nologo /o"F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CourseworkBase.bsc" F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BackgroundControl.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BirdObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\CharacterObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FightEngine.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FightTileManager.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\HealthBarObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\KakashiObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\mainfunction.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BaseEngine.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\DisplayableObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\FontManager.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\JPGImage.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\NameBarObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\NarutoObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\PlayerState.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SasukeAI.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SasukeObject.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\SimpleDemo.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\TileManager.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BouncingBall.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\BouncingBallMain.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo1Main.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2Main.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2Object.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo2TileManager.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3Main.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3Object.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3ObjectFinished.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo3TileManager.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4Main.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4Object.sbr F:\CPP\CPP_CW2016_fight\CPP_CW2016\/Debug\Demo4TileManager.sbr
+     1>Done Building Project "F:\CPP\CPP_CW2016_fight\CPP_CW2016\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36
